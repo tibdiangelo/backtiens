@@ -1,0 +1,23 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Base de datos
+data/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Archivos subidos y comprobantes privados
+uploads/
+private/
+
+# Logs y temporales
+logs/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
