@@ -10,6 +10,7 @@ data/
 *.db-wal
 *.sqlite
 *.sqlite3
+.README.md
 
 # Archivos subidos y comprobantes privados
 uploads/
